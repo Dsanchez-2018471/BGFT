@@ -9,7 +9,7 @@ export const Taller = () => {
         </div>
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Laboratorio 1</p>

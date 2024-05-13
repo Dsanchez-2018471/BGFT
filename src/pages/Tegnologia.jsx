@@ -8,7 +8,7 @@ export const Tegnologia = () => {
         </div>
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Infografía</p>

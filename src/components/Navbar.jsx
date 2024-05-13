@@ -45,7 +45,7 @@ export const Navbar = () => {
                             <li><Link to="/">Inicio</Link></li>
                             <li><Link to="/add">Crear nueva publicacion</Link></li>
                             <li><a href="/about">Acerca del Blog</a></li>
-                            <li><Link to="https://github.com/Areyes2019092" target='_blank'>Mas proyectos</Link></li>
+                            <li><Link to="https://github.com/Dsanchez-2018471" target='_blank'>Mas proyectos</Link></li>
                         </ul>
                     </div>
                     <div>

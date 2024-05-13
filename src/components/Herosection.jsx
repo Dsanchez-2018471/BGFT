@@ -8,9 +8,9 @@ export const Herosection = () => {
         <>
             <div className="section">
                 <div className="max-w-container ">
-                    <h1 className="title ">Angel Reyes</h1>
+                    <h1 className="title ">Derick Sanchez</h1>
 
-                    <p className="subtitle ">Blog de Angel Reyes</p>
+                    <p className="subtitle ">Blog de Derick Sanchez</p>
                     <div className="button ">
                         <ModelAdd />
                     </div>
