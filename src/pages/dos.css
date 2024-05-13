@@ -1,0 +1,171 @@
+/*Categories*/
+.container {
+  background-color: #f9f9f9; /* Color de fondo */
+  border: 2px solid #ccc; /* Borde */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 20px; /* Espaciado interno */
+  width: 300px; /* Ancho */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+  margin: 20px auto; /* Margen exterior */
+}
+
+.title-1 {
+  background-color: #ffc107; /* Color de fondo */
+  padding: 10px 15px; /* Espaciado interno */
+  border-radius: 8px; /* Bordes redondeados */
+  margin-bottom: 10px; /* Margen inferior */
+  font-size: 1.2rem; /* Tamaño de fuente */
+  font-weight: bold; /* Negrita */
+  color: #333; /* Color del texto */
+  text-align: center; /* Alineación centrada del texto */
+}
+
+.project-name {
+  font-weight: bold; /* Negrita para el nombre del proyecto */
+  margin-bottom: 10px; /* Margen inferior */
+}
+
+.description-project {
+  font-style: italic; /* Cursiva para la descripción */
+}
+
+a button {
+  display: block; /* Convertir el botón en un elemento de bloque */
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color del texto del botón */
+  text-decoration: none; /* Quitar subrayado del botón */
+  border: none; /* Quitar borde */
+  border-radius: 5px; /* Bordes redondeados */
+  padding: 10px 15px; /* Espaciado interno */
+  margin-top: 10px; /* Margen superior */
+  width: 100%; /* Ancho completo */
+  text-align: center; /* Alineación centrada del texto */
+}
+
+a button:hover {
+  background-color: #0056b3; /* Cambio de color al pasar el ratón */
+}
+
+.title-category-class {
+  font-size: 28px; /* Tamaño de fuente */
+  font-weight: bold; /* Negrita */
+  color: #333; /* Color del texto */
+  text-align: center; /* Alineación centrada del texto */
+  margin-bottom: 20px; /* Margen inferior */
+  text-transform: uppercase; /* Convertir el texto en mayúsculas */
+  letter-spacing: 1px; /* Espaciado entre letras */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Sombra de texto */
+  padding: 10px; /* Espaciado interno */
+  background-color: #ffc107; /* Color de fondo */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+  transition: background-color 0.3s, color 0.3s; /* Transición de color */
+}
+
+.title-category-class:hover {
+  background-color: #ff9900; /* Cambio de color al pasar el ratón */
+  color: #fff; /* Cambio de color del texto al pasar el ratón */
+}
+
+
+
+
+
+
+
+
+
+/**/
+
+.text-description {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333; /* Color del texto */
+    margin-bottom: 20px; /* Espacio inferior */
+  }
+
+.Get-project {
+    text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.Get-project Button {
+    /* Estilos para el botón dentro del enlace */
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3c76f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.Get-project Button:hover {
+    background-color: #45a07d;
+}
+
+/* Estilos para el contenedor principal */
+.bg {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el contenedor interno */
+  .sss {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el título */
+  .Contenedor-categorias {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  
+  /* Estilos para la lista de categorías */
+  .lista-categorias {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .lista-categorias li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para los enlaces */
+  .lista-categorias li a {
+    display: block;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+  }
+  
+  .lista-categorias li a:hover {
+    background-color: #028d2a;
+  }
+  
+  /* Estilos específicos para cada categoría */
+  .taller-class {
+    background-color: #28a745;
+  }
+  
+  .tegnologia {
+    background-color: #ffc107;
+  }
+  
+  .Supervisada {
+    background-color: #dc3545;
+  }
+  
