@@ -3,6 +3,7 @@
   max-width: 600px; /* Establece el ancho máximo del contenedor del formulario */
   margin: 0 auto; /* Centra horizontalmente el contenedor del formulario */
   padding: 20px; /* Añade un relleno interno al contenedor del formulario */
+  background-color: black;
 }
 
 /* Form content */
@@ -40,7 +41,7 @@
 .form-input {
   width: 100%; /* Establece el ancho del input del formulario al 100% */
   padding: 10px; /* Añade un relleno interno al input del formulario */
-  border: 1px solid #ccc; /* Establece un borde alrededor del input del formulario */
+  border: 1px solid #cccccc; /* Establece un borde alrededor del input del formulario */
   border-radius: 4px; /* Establece el radio de borde del input del formulario */
 }
 
@@ -55,7 +56,7 @@
   display: block; /* Establece que el botón de enviar sea un elemento de bloque */
   width: 100%; /* Establece el ancho del botón de enviar al 100% */
   padding: 10px; /* Añade un relleno interno al botón de enviar */
-  background-color: #007bff; /* Establece el color de fondo del botón de enviar */
+  background-color: #000000; /* Establece el color de fondo del botón de enviar */
   color: #fff; /* Establece el color del texto del botón de enviar */
   border: none; /* Elimina el borde del botón de enviar */
   border-radius: 4px; /* Establece el radio de borde del botón de enviar */
@@ -64,7 +65,7 @@
 }
 
 .form-submit:hover {
-  background-color: #0056b3; /* Cambia el color de fondo del botón de enviar al pasar el cursor sobre él */
+  background-color: #1200b3; /* Cambia el color de fondo del botón de enviar al pasar el cursor sobre él */
 }
 
 /* Form info */

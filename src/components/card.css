@@ -18,7 +18,7 @@
     left: 0; /* A la izquierda */
     width: 5px; /* Ancho de la línea */
     height: 100%; /* Altura igual al contenedor */
-    background-color: #667eea; /* Azul pastel */
+    background-color: #ea6666; /* Azul pastel */
     border-top-left-radius: 15px; /* Borde redondeado en la esquina superior izquierda */
     border-bottom-left-radius: 15px; /* Borde redondeado en la esquina inferior izquierda */
 }
