@@ -1,8 +1,8 @@
 /* Estilos generales */
 .big-container {
-  background-color: #fefefe; /* Color de fondo similar al papel */
+  background-color: #f0f4f8; /* Azul claro */
   border-radius: 15px; /* Borde redondeado */
-  border: 1px solid #cbd5e0; /* Borde */
+  border: 1px solid #a0aec0; /* Gris azulado */
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
   padding: 20px; /* Espacio interno */
   margin-bottom: 20px; /* Margen inferior */
@@ -18,89 +18,85 @@
     left: 0; /* A la izquierda */
     width: 5px; /* Ancho de la línea */
     height: 100%; /* Altura igual al contenedor */
-    background-color: #3182ce; /* Color azul */
+    background-color: #667eea; /* Azul pastel */
     border-top-left-radius: 15px; /* Borde redondeado en la esquina superior izquierda */
     border-bottom-left-radius: 15px; /* Borde redondeado en la esquina inferior izquierda */
-  }
-  
+}
 
-  
-  /* Estilos para el nombre del autor */
-  .author-1 {
-    margin-bottom: 10px;
-  }
-  
-  .author-2 {
-    margin-bottom: 4px;
-  }
-  
-  .author-3 {
-    font-weight: bold;
-    color: #0057ee;
-    cursor: default;
-    border-bottom: 2px solid #0057ee; /* Agrega una línea debajo */
-    display: inline-block; /* Asegura que el elemento sea inline-block para que la línea se ajuste al texto */
-    padding-bottom: 2px;
-  }
-  
-  /* Estilos para el título */
-  .title-home {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #2d3748;
-    text-decoration: none;
-    transition: color 0.3s;
-    margin-bottom: 10px;
-    display: block;
-  }
-  
-  .title-home:hover {
-    color: #667eea;
-  }
-  
-  /* Estilos para la descripción */
-  .desc {
-    color: #4a5568;
-    margin-bottom: 10px;
-    text-align: justify;
-  }
-  
-  /* Estilos para la fecha */
-  .when {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .onDate {
-    font-size: 0.875rem;
-    color: #4a5568;
-  }
-  
-  /* Estilos para el botón de eliminar */
-  .delete-button {
-    background-color: #ffffff;
-    border: 1px solid #f56565;
-    border-radius: 6px; /* Agregando border-radius */
-    color: #f56565;
-    font-size: 0.875rem;
-    padding: 8px 16px;
-    cursor: pointer;
-    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
-  }
-  
-  
-  .delete-button:hover {
-    background-color: #f56565;
-    color: #ffffff;
-  }
-  
-  .delete-button:focus {
-    outline: none;
-  }
-  
-  /* Estilos para el icono de eliminar */
-  .delete-icon {
-    vertical-align: middle;
-  }
-  
+/* Estilos para el nombre del autor */
+.author-1 {
+  margin-bottom: 10px;
+}
+
+.author-2 {
+  margin-bottom: 4px;
+}
+
+.author-3 {
+  font-weight: bold;
+  color: #4c51bf; /* Azul violeta */
+  cursor: default;
+  border-bottom: 2px solid #4c51bf; /* Línea azul violeta */
+  display: inline-block; /* Asegura que el elemento sea inline-block para que la línea se ajuste al texto */
+  padding-bottom: 2px;
+}
+
+/* Estilos para el título */
+.title-home {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #2d3748; /* Gris azulado oscuro */
+  text-decoration: none;
+  transition: color 0.3s;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.title-home:hover {
+  color: #6b7280; /* Gris azulado */
+}
+
+/* Estilos para la descripción */
+.desc {
+  color: #4a5568; /* Gris azulado medio */
+  margin-bottom: 10px;
+  text-align: justify;
+}
+
+/* Estilos para la fecha */
+.when {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.onDate {
+  font-size: 0.875rem;
+  color: #4a5568; /* Gris azulado medio */
+}
+
+/* Estilos para el botón de eliminar */
+.delete-button {
+  background-color: #ffffff;
+  border: 1px solid #718096; /* Gris azulado claro */
+  border-radius: 6px; /* Agregando border-radius */
+  color: #718096; /* Gris azulado claro */
+  font-size: 0.875rem;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.delete-button:hover {
+  background-color: #cbd5e0; /* Gris azulado muy claro */
+  color: #2d3748; /* Gris azulado oscuro */
+}
+
+.delete-button:focus {
+  outline: none;
+}
+
+/* Estilos para el icono de eliminar */
+.delete-icon {
+  vertical-align: middle;
+}
