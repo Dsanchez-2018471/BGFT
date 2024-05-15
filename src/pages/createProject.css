@@ -1,91 +1,84 @@
-/* createProject.css */
-
 /* Container for the form */
 .form-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-  
-  /* Form content */
-  .form-content {
-    background-color: #f9f9f9;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Form title */
-  /* Form title */
+  max-width: 600px; /* Establece el ancho máximo del contenedor del formulario */
+  margin: 0 auto; /* Centra horizontalmente el contenedor del formulario */
+  padding: 20px; /* Añade un relleno interno al contenedor del formulario */
+}
 
+/* Form content */
+.form-content {
+  background-color: #f9f9f9; /* Establece el color de fondo del contenido del formulario */
+  padding: 20px; /* Añade un relleno interno al contenido del formulario */
+  border-radius: 8px; /* Establece el radio de borde del contenido del formulario */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Añade una sombra al contenido del formulario */
+}
+
+/* Form title */
 .form-title {
-    margin-bottom: 20px;
-    text-align: center;
-    font-size: 2rem; /* Tamaño de fuente */
-    color: #333; /* Color del texto */
-    text-transform: uppercase; /* Convertir el texto a mayúsculas */
-    font-family: 'Arial', sans-serif; /* Fuente personalizada */
-    letter-spacing: 2px; /* Espaciado entre letras */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Sombra del texto */
-  }
-  
-  
-  
-  /* Form items */
-  .form-item {
-    margin-bottom: 20px;
-  }
-  
-  /* Form label */
-  .form-label {
-    display: block;
-    font-weight: bold;
-  }
-  
-  /* Form input */
-  .form-input {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  
-  /* Error message */
-  .form-error {
-    color: #ff0000;
-    font-size: 0.8rem;
-  }
-  
-  /* Submit button */
-  .form-submit {
-    display: block;
-    width: 100%;
-    padding: 10px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-  }
-  
-  .form-submit:hover {
-    background-color: #0056b3;
-  }
-  
-  /* Form info */
-  .form-info {
-    margin-top: 20px;
-    text-align: center;
-  }
-  
-  /* Form link */
-  .form-link {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  .form-link:hover {
-    text-decoration: underline;
-  }
-  
+  margin-bottom: 20px; /* Establece el margen inferior del título del formulario */
+  text-align: center; /* Centra horizontalmente el texto del título */
+  font-size: 2rem; /* Establece el tamaño de fuente del título */
+  color: #333; /* Establece el color del texto del título */
+  text-transform: uppercase; /* Convierte el texto del título en mayúsculas */
+  font-family: 'Arial', sans-serif; /* Establece la fuente del título */
+  letter-spacing: 2px; /* Establece el espaciado entre letras del título */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Añade una sombra al texto del título */
+}
+
+/* Form items */
+.form-item {
+  margin-bottom: 20px; /* Establece el margen inferior de los elementos del formulario */
+}
+
+/* Form label */
+.form-label {
+  display: block; /* Establece que las etiquetas del formulario sean elementos de bloque */
+  font-weight: bold; /* Establece el peso de fuente en negrita para las etiquetas del formulario */
+}
+
+/* Form input */
+.form-input {
+  width: 100%; /* Establece el ancho del input del formulario al 100% */
+  padding: 10px; /* Añade un relleno interno al input del formulario */
+  border: 1px solid #ccc; /* Establece un borde alrededor del input del formulario */
+  border-radius: 4px; /* Establece el radio de borde del input del formulario */
+}
+
+/* Error message */
+.form-error {
+  color: #ff0000; /* Establece el color del texto del mensaje de error */
+  font-size: 0.8rem; /* Establece el tamaño de fuente del mensaje de error */
+}
+
+/* Submit button */
+.form-submit {
+  display: block; /* Establece que el botón de enviar sea un elemento de bloque */
+  width: 100%; /* Establece el ancho del botón de enviar al 100% */
+  padding: 10px; /* Añade un relleno interno al botón de enviar */
+  background-color: #007bff; /* Establece el color de fondo del botón de enviar */
+  color: #fff; /* Establece el color del texto del botón de enviar */
+  border: none; /* Elimina el borde del botón de enviar */
+  border-radius: 4px; /* Establece el radio de borde del botón de enviar */
+  cursor: pointer; /* Cambia el cursor al pasar sobre el botón de enviar */
+  transition: background-color 0.3s ease; /* Agrega una transición suave al color de fondo del botón de enviar */
+}
+
+.form-submit:hover {
+  background-color: #0056b3; /* Cambia el color de fondo del botón de enviar al pasar el cursor sobre él */
+}
+
+/* Form info */
+.form-info {
+  margin-top: 20px; /* Establece el margen superior de la información del formulario */
+  text-align: center; /* Centra horizontalmente el texto de la información del formulario */
+}
+
+/* Form link */
+.form-link {
+  color: #007bff; /* Establece el color del texto del enlace del formulario */
+  text-decoration: none; /* Elimina la subrayado del enlace del formulario */
+}
+
+.form-link:hover {
+  text-decoration: underline; /* Subraya el enlace del formulario al pasar el cursor sobre él */
+}

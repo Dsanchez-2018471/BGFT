@@ -21,7 +21,7 @@ export const PracticaSupervisada = () => {
     </div>
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Laboratorio PS #2</p>
@@ -35,7 +35,7 @@ export const PracticaSupervisada = () => {
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Laboratorio PS # 3</p>
@@ -49,7 +49,7 @@ export const PracticaSupervisada = () => {
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Evaluación bimestral PS.</p>
@@ -63,7 +63,7 @@ export const PracticaSupervisada = () => {
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Proyecto grupal.</p>
@@ -77,7 +77,7 @@ export const PracticaSupervisada = () => {
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Frameworks de aplicaciones híbridas</p>

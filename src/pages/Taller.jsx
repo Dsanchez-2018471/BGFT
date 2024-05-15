@@ -17,12 +17,12 @@ export const Taller = () => {
         <div className='description-project'>
             <p>Creacion de pagina web</p>
         </div>
-        <a href="https://github.com/Areyes2019092/Taller---Laboratorio1.git"><button>Obtener Proyect</button></a>
+        <a href="https://github.com/Dsanchez-2018471/Fila-1.git"><button>Obtener Proyect</button></a>
     
     </div>
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Laboratorio 2</p>
@@ -36,13 +36,13 @@ export const Taller = () => {
                 DELETE
                 ADD_APPOINTMENT</p>
         </div>
-        <a href="https://github.com/Areyes2019092/ApiTarea.git"><button>Obtener Proyect</button></a>
+        <a href="https://github.com/Dsanchez-2018471/PS2.git"><button>Obtener Proyect</button></a>
     
     </div>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Revisión de avances en proyecto final de bimestre</p>
@@ -50,13 +50,13 @@ export const Taller = () => {
         <div className='description-project'>
             <p>En el documento adjunto en este apartado encontrarás las instrucciones generales para el desarrollo del proyecto bimestral.</p>
         </div>
-        <a href="https://github.com/Areyes2019092/ProyectoBimestral.git"><button>Obtener Proyect</button></a>
+        <a href="https://github.com/Dsanchez-2018471/PFB1-P1.git"><button>Obtener Proyect</button></a>
     
     </div>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Laboratorio 3</p>
@@ -64,13 +64,13 @@ export const Taller = () => {
         <div className='description-project'>
             <p>Proyecto Gestor de Empresas.</p>
         </div>
-        <a href="https://github.com/Areyes2019092/GestorEmpresas.git"><button>Obtener Proyect</button></a>
+        <a href="https://github.com/Dsanchez-2018471/PS3.git"><button>Obtener Proyect</button></a>
     
     </div>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Ejercicios sobre lógica de programación.</p>
@@ -84,7 +84,7 @@ export const Taller = () => {
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Revisión de avances en proyecto final de bimestre</p>
@@ -92,7 +92,7 @@ export const Taller = () => {
         <div className='description-project'>
             <p>Revisión de avances (30%) en proyecto bimestral “Gestor de Hoteles”.</p>
         </div>
-        <a href="https://github.com/KinalDropCode/Lodgy-Frontend"><button>Obtener Proyect</button></a>
+        <a href="https://github.com/amax2019189/Proyecto_Gestor_de_Hoteles-_BackEnd.git"><button>Obtener Proyect</button></a>
     
     </div>
     </div>

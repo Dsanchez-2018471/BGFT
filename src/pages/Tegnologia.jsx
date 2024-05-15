@@ -32,7 +32,7 @@ export const Tegnologia = () => {
     </div>
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Mapa conceptual</p>
@@ -55,7 +55,7 @@ BackboneJs</p>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Mapa Mental</p>
@@ -76,7 +76,7 @@ W3C</p>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Investigación</p>
@@ -90,7 +90,7 @@ W3C</p>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Infografía: Beneficios React.</p>
@@ -104,7 +104,7 @@ W3C</p>
 
     <div className='container'>
         <div className='title-1'>
-            <p>Angel Reyes</p>
+            <p>Derick Sanchez</p>
         </div>
         <div className='project-name'>
             <p>Exposición de proyecto</p>
